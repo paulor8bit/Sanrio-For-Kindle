@@ -1,0 +1,9 @@
+SanrioKindle 0.1.0
+
+Base de código: PokeK / PokePal for Kindle, itsParassharma e colaboradores.
+Licença MIT preservada em LICENSE-CODE.txt.
+
+Personagens: Hello Kitty, Cinnamoroll, Kuromi e My Melody, da Sanrio.
+Artes criadas para este projeto com a ferramenta integrada de geração de imagens.
+Ícones e cenários em pixels derivados da base de código.
+Projeto de fã não oficial, sem afiliação à Sanrio.

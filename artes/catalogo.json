@@ -1,0 +1,386 @@
+{
+  "hello-kitty": {
+    "id": 1,
+    "nome": "Hello Kitty",
+    "quadros": [
+      {
+        "pose": "repouso",
+        "quadro": 1,
+        "arquivo": "sprites/hello-kitty/repouso-1.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 2,
+        "arquivo": "sprites/hello-kitty/repouso-2.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 3,
+        "arquivo": "sprites/hello-kitty/repouso-3.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 4,
+        "arquivo": "sprites/hello-kitty/repouso-4.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 1,
+        "arquivo": "sprites/hello-kitty/caminhar-1.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 2,
+        "arquivo": "sprites/hello-kitty/caminhar-2.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 3,
+        "arquivo": "sprites/hello-kitty/caminhar-3.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 4,
+        "arquivo": "sprites/hello-kitty/caminhar-4.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 1,
+        "arquivo": "sprites/hello-kitty/brincar-1.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 2,
+        "arquivo": "sprites/hello-kitty/brincar-2.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 3,
+        "arquivo": "sprites/hello-kitty/brincar-3.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 4,
+        "arquivo": "sprites/hello-kitty/brincar-4.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 1,
+        "arquivo": "sprites/hello-kitty/comer-1.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 2,
+        "arquivo": "sprites/hello-kitty/comer-2.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 3,
+        "arquivo": "sprites/hello-kitty/comer-3.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 4,
+        "arquivo": "sprites/hello-kitty/comer-4.png"
+      },
+      {
+        "pose": "dormir",
+        "quadro": 1,
+        "arquivo": "sprites/hello-kitty/dormir-1.png"
+      },
+      {
+        "pose": "dormir",
+        "quadro": 2,
+        "arquivo": "sprites/hello-kitty/dormir-2.png"
+      }
+    ]
+  },
+  "cinnamoroll": {
+    "id": 2,
+    "nome": "Cinnamoroll",
+    "quadros": [
+      {
+        "pose": "repouso",
+        "quadro": 1,
+        "arquivo": "sprites/cinnamoroll/repouso-1.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 2,
+        "arquivo": "sprites/cinnamoroll/repouso-2.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 3,
+        "arquivo": "sprites/cinnamoroll/repouso-3.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 4,
+        "arquivo": "sprites/cinnamoroll/repouso-4.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 1,
+        "arquivo": "sprites/cinnamoroll/caminhar-1.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 2,
+        "arquivo": "sprites/cinnamoroll/caminhar-2.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 3,
+        "arquivo": "sprites/cinnamoroll/caminhar-3.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 4,
+        "arquivo": "sprites/cinnamoroll/caminhar-4.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 1,
+        "arquivo": "sprites/cinnamoroll/brincar-1.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 2,
+        "arquivo": "sprites/cinnamoroll/brincar-2.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 3,
+        "arquivo": "sprites/cinnamoroll/brincar-3.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 4,
+        "arquivo": "sprites/cinnamoroll/brincar-4.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 1,
+        "arquivo": "sprites/cinnamoroll/comer-1.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 2,
+        "arquivo": "sprites/cinnamoroll/comer-2.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 3,
+        "arquivo": "sprites/cinnamoroll/comer-3.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 4,
+        "arquivo": "sprites/cinnamoroll/comer-4.png"
+      },
+      {
+        "pose": "dormir",
+        "quadro": 1,
+        "arquivo": "sprites/cinnamoroll/dormir-1.png"
+      },
+      {
+        "pose": "dormir",
+        "quadro": 2,
+        "arquivo": "sprites/cinnamoroll/dormir-2.png"
+      }
+    ]
+  },
+  "kuromi": {
+    "id": 3,
+    "nome": "Kuromi",
+    "quadros": [
+      {
+        "pose": "repouso",
+        "quadro": 1,
+        "arquivo": "sprites/kuromi/repouso-1.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 2,
+        "arquivo": "sprites/kuromi/repouso-2.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 3,
+        "arquivo": "sprites/kuromi/repouso-3.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 4,
+        "arquivo": "sprites/kuromi/repouso-4.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 1,
+        "arquivo": "sprites/kuromi/caminhar-1.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 2,
+        "arquivo": "sprites/kuromi/caminhar-2.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 3,
+        "arquivo": "sprites/kuromi/caminhar-3.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 4,
+        "arquivo": "sprites/kuromi/caminhar-4.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 1,
+        "arquivo": "sprites/kuromi/brincar-1.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 2,
+        "arquivo": "sprites/kuromi/brincar-2.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 3,
+        "arquivo": "sprites/kuromi/brincar-3.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 4,
+        "arquivo": "sprites/kuromi/brincar-4.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 1,
+        "arquivo": "sprites/kuromi/comer-1.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 2,
+        "arquivo": "sprites/kuromi/comer-2.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 3,
+        "arquivo": "sprites/kuromi/comer-3.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 4,
+        "arquivo": "sprites/kuromi/comer-4.png"
+      },
+      {
+        "pose": "dormir",
+        "quadro": 1,
+        "arquivo": "sprites/kuromi/dormir-1.png"
+      },
+      {
+        "pose": "dormir",
+        "quadro": 2,
+        "arquivo": "sprites/kuromi/dormir-2.png"
+      }
+    ]
+  },
+  "my-melody": {
+    "id": 4,
+    "nome": "My Melody",
+    "quadros": [
+      {
+        "pose": "repouso",
+        "quadro": 1,
+        "arquivo": "sprites/my-melody/repouso-1.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 2,
+        "arquivo": "sprites/my-melody/repouso-2.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 3,
+        "arquivo": "sprites/my-melody/repouso-3.png"
+      },
+      {
+        "pose": "repouso",
+        "quadro": 4,
+        "arquivo": "sprites/my-melody/repouso-4.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 1,
+        "arquivo": "sprites/my-melody/caminhar-1.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 2,
+        "arquivo": "sprites/my-melody/caminhar-2.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 3,
+        "arquivo": "sprites/my-melody/caminhar-3.png"
+      },
+      {
+        "pose": "caminhar",
+        "quadro": 4,
+        "arquivo": "sprites/my-melody/caminhar-4.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 1,
+        "arquivo": "sprites/my-melody/brincar-1.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 2,
+        "arquivo": "sprites/my-melody/brincar-2.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 3,
+        "arquivo": "sprites/my-melody/brincar-3.png"
+      },
+      {
+        "pose": "brincar",
+        "quadro": 4,
+        "arquivo": "sprites/my-melody/brincar-4.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 1,
+        "arquivo": "sprites/my-melody/comer-1.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 2,
+        "arquivo": "sprites/my-melody/comer-2.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 3,
+        "arquivo": "sprites/my-melody/comer-3.png"
+      },
+      {
+        "pose": "comer",
+        "quadro": 4,
+        "arquivo": "sprites/my-melody/comer-4.png"
+      },
+      {
+        "pose": "dormir",
+        "quadro": 1,
+        "arquivo": "sprites/my-melody/dormir-1.png"
+      },
+      {
+        "pose": "dormir",
+        "quadro": 2,
+        "arquivo": "sprites/my-melody/dormir-2.png"
+      }
+    ]
+  }
+}

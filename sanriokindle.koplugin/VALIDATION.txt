@@ -1,0 +1,9 @@
+Validação local — versão 0.1.0
+
+Sintaxe de todos os arquivos Lua conferida.
+72 quadros e 16 aliases de repouso: tamanho, transparência e paleta verificados.
+Testes de alimentação, presentes, leitura, passeios, conquistas e salvamento.
+Telas renderizadas pelo código real da interface em tamanhos de Kindle.
+Animações limitadas, sem atualização contínua.
+
+Ainda não testado em Kindle físico. Reproduzir: python tests/test_sanrio.py.

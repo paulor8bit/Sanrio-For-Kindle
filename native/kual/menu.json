@@ -1,0 +1,5 @@
+{
+  "items": [{"name": "SanrioKindle PT-BR", "priority": 0, "items": [
+    {"name": "Jogar SanrioKindle", "action": "sh ./launch.sh", "exitmenu": true}
+  ]}]
+}

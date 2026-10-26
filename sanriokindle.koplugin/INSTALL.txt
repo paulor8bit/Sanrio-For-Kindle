@@ -1,0 +1,9 @@
+SANRIOKINDLE — INSTALAÇÃO NO KOREADER
+
+1. Copie sanriokindle.koplugin para koreader/plugins/.
+2. Reinicie o KOReader.
+3. Abra Ferramentas > Mais ferramentas > SanrioKindle - Amigos de leitura.
+
+Os dados ficam em /mnt/us/sanriokindle/sanriokindle.dat.
+Faça cópias em Mais > Backups.
+Para KUAL, use SanrioKindle-v0.1.0-kual.zip e copie extensions/ para o Kindle.
