@@ -2,7 +2,7 @@
 
 Amigos da Sanrio para suas pausas de leitura no Kindle, inspirado no PokeK. Interface e instruções em português brasileiro; funcionamento offline.
 
-![Hello Kitty no SanrioKindle em português](docs/1-home.png)
+![My Melody no SanrioKindle em português](docs/my-melody-preview.png)
 
 **Hello Kitty, Cinnamoroll, Kuromi e My Melody — tudo em PT-BR.**
 
